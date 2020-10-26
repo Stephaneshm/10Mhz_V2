@@ -6,11 +6,11 @@ base on Arduino micro pro and GPS NEO7
 Use TP5 on GPS NEO 7
 Config with U-CENTER
 
-![Module arduino + GPS][/Picture/b3.png]
+![Module arduino + GPS](/Picture/b3.png)
 
-![Signal 10Mhz][/Picture/SDS00026.png]
+![Signal 10Mhz](/Picture/SDS00026.png)
 
-![Signal 10Mhz][/Picture/S1.png]
+![Signal 10Mhz](/Picture/S1.png)
 
 
 
