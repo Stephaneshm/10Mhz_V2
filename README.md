@@ -10,7 +10,7 @@ Config with U-CENTER
 
 ![Signal 10Mhz](/Picture/SDS00026.png)
 
-![Signal 10Mhz](/Picture/S1.jpg)
+![Signal 10Mhz](/Picture/signal.jpg)
 
 
 
